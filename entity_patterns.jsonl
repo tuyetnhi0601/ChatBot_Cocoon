@@ -1,0 +1,213 @@
+{"label": "LOAI_DA", "pattern": "da dầu"}
+{"label": "LOAI_DA", "pattern": "da nhờn"}
+{"label": "LOAI_DA", "pattern": "đổ dầu"}
+{"label": "LOAI_DA", "pattern": "bã nhờn nhiều"}
+{"label": "LOAI_DA", "pattern": "da hỗn hợp thiên dầu"}
+{"label": "LOAI_DA", "pattern": "da dau"}
+{"label": "LOAI_DA", "pattern": "da nhon"}
+{"label": "LOAI_DA", "pattern": "do dau"}
+{"label": "LOAI_DA", "pattern": "da khô"}
+{"label": "LOAI_DA", "pattern": "thiếu ẩm"}
+{"label": "LOAI_DA", "pattern": "khô ráp"}
+{"label": "LOAI_DA", "pattern": "bong tróc"}
+{"label": "LOAI_DA", "pattern": "da hỗn hợp thiên khô"}
+{"label": "LOAI_DA", "pattern": "da kho"}
+{"label": "LOAI_DA", "pattern": "thieu am"}
+{"label": "LOAI_DA", "pattern": "kho rap"}
+{"label": "LOAI_DA", "pattern": "bong troc"}
+{"label": "LOAI_DA", "pattern": "da nhạy cảm"}
+{"label": "LOAI_DA", "pattern": "dễ kích ứng"}
+{"label": "LOAI_DA", "pattern": "da yếu"}
+{"label": "LOAI_DA", "pattern": "barrier yếu"}
+{"label": "LOAI_DA", "pattern": "da nhay cam"}
+{"label": "LOAI_DA", "pattern": "de kich ung"}
+{"label": "LOAI_DA", "pattern": "hang rao bao ve yeu"}
+{"label": "LOAI_DA", "pattern": "da hỗn hợp"}
+{"label": "LOAI_DA", "pattern": "hỗn hợp T-zone dầu"}
+{"label": "LOAI_DA", "pattern": "da hon hop"}
+{"label": "LOAI_DA", "pattern": "hon hop"}
+{"label": "LOAI_DA", "pattern": "da thường"}
+{"label": "LOAI_DA", "pattern": "da thuong"}
+{"label": "VAN_DE_DA", "pattern": "mụn ẩn"}
+{"label": "VAN_DE_DA", "pattern": "mụn li ti"}
+{"label": "VAN_DE_DA", "pattern": "mụn dưới da"}
+{"label": "VAN_DE_DA", "pattern": "mun an"}
+{"label": "VAN_DE_DA", "pattern": "mun li ti"}
+{"label": "VAN_DE_DA", "pattern": "mun duoi da"}
+{"label": "VAN_DE_DA", "pattern": "mụn viêm"}
+{"label": "VAN_DE_DA", "pattern": "mụn sưng đỏ"}
+{"label": "VAN_DE_DA", "pattern": "mụn bọc"}
+{"label": "VAN_DE_DA", "pattern": "mun viem"}
+{"label": "VAN_DE_DA", "pattern": "mun sung do"}
+{"label": "VAN_DE_DA", "pattern": "mun boc"}
+{"label": "VAN_DE_DA", "pattern": "mụn đầu đen"}
+{"label": "VAN_DE_DA", "pattern": "blackhead"}
+{"label": "VAN_DE_DA", "pattern": "mun dau den"}
+{"label": "VAN_DE_DA", "pattern": "dau den"}
+{"label": "VAN_DE_DA", "pattern": "mụn đầu trắng"}
+{"label": "VAN_DE_DA", "pattern": "whitehead"}
+{"label": "VAN_DE_DA", "pattern": "mun dau trang"}
+{"label": "VAN_DE_DA", "pattern": "dau trang"}
+{"label": "VAN_DE_DA", "pattern": "lỗ chân lông to"}
+{"label": "VAN_DE_DA", "pattern": "lo chan long to"}
+{"label": "VAN_DE_DA", "pattern": "lo to"}
+{"label": "VAN_DE_DA", "pattern": "thâm mụn"}
+{"label": "VAN_DE_DA", "pattern": "vết thâm"}
+{"label": "VAN_DE_DA", "pattern": "thâm sạm"}
+{"label": "VAN_DE_DA", "pattern": "tham mun"}
+{"label": "VAN_DE_DA", "pattern": "vet tham"}
+{"label": "VAN_DE_DA", "pattern": "tham sam"}
+{"label": "VAN_DE_DA", "pattern": "nám"}
+{"label": "VAN_DE_DA", "pattern": "tàn nhang"}
+{"label": "VAN_DE_DA", "pattern": "không đều màu"}
+{"label": "VAN_DE_DA", "pattern": "nam"}
+{"label": "VAN_DE_DA", "pattern": "tan nhang"}
+{"label": "VAN_DE_DA", "pattern": "khong deu mau"}
+{"label": "VAN_DE_DA", "pattern": "xỉn màu"}
+{"label": "VAN_DE_DA", "pattern": "da xám xịt"}
+{"label": "VAN_DE_DA", "pattern": "xin mau"}
+{"label": "VAN_DE_DA", "pattern": "da xam xit"}
+{"label": "VAN_DE_DA", "pattern": "đỏ rát"}
+{"label": "VAN_DE_DA", "pattern": "kích ứng"}
+{"label": "VAN_DE_DA", "pattern": "do rat"}
+{"label": "VAN_DE_DA", "pattern": "kich ung"}
+{"label": "VAN_DE_DA", "pattern": "lão hóa"}
+{"label": "VAN_DE_DA", "pattern": "nếp nhăn"}
+{"label": "VAN_DE_DA", "pattern": "chảy xệ"}
+{"label": "VAN_DE_DA", "pattern": "lao hoa"}
+{"label": "VAN_DE_DA", "pattern": "nep nhan"}
+{"label": "VAN_DE_DA", "pattern": "chay xe"}
+{"label": "MUC_TIEU", "pattern": "trị mụn"}
+{"label": "MUC_TIEU", "pattern": "giảm mụn"}
+{"label": "MUC_TIEU", "pattern": "tri mun"}
+{"label": "MUC_TIEU", "pattern": "giam mun"}
+{"label": "MUC_TIEU", "pattern": "sáng da"}
+{"label": "MUC_TIEU", "pattern": "làm sáng"}
+{"label": "MUC_TIEU", "pattern": "mờ thâm"}
+{"label": "MUC_TIEU", "pattern": "sang da"}
+{"label": "MUC_TIEU", "pattern": "lam sang"}
+{"label": "MUC_TIEU", "pattern": "mo tham"}
+{"label": "MUC_TIEU", "pattern": "cấp ẩm"}
+{"label": "MUC_TIEU", "pattern": "giữ ẩm"}
+{"label": "MUC_TIEU", "pattern": "dưỡng ẩm"}
+{"label": "MUC_TIEU", "pattern": "cap am"}
+{"label": "MUC_TIEU", "pattern": "giu am"}
+{"label": "MUC_TIEU", "pattern": "duong am"}
+{"label": "MUC_TIEU", "pattern": "làm dịu"}
+{"label": "MUC_TIEU", "pattern": "phục hồi"}
+{"label": "MUC_TIEU", "pattern": "lam diu"}
+{"label": "MUC_TIEU", "pattern": "phuc hoi"}
+{"label": "MUC_TIEU", "pattern": "chống lão hóa"}
+{"label": "MUC_TIEU", "pattern": "chong lao hoa"}
+{"label": "MUC_TIEU", "pattern": "anti-aging"}
+{"label": "MUC_TIEU", "pattern": "chong nhan"}
+{"label": "MUC_TIEU", "pattern": "se khít lỗ chân lông"}
+{"label": "MUC_TIEU", "pattern": "se khit lo chan long"}
+{"label": "MUC_TIEU", "pattern": "thu nho lo chan long"}
+{"label": "SAN_PHAM", "pattern": "Cocoon"}
+{"label": "SAN_PHAM", "pattern": "Cocoon Vietnam"}
+{"label": "SAN_PHAM", "pattern": "thuần chay Cocoon"}
+{"label": "SAN_PHAM", "pattern": "cocoon"}
+{"label": "SAN_PHAM", "pattern": "serum nghệ"}
+{"label": "SAN_PHAM", "pattern": "tinh chất nghệ"}
+{"label": "SAN_PHAM", "pattern": "nghệ Hưng Yên"}
+{"label": "SAN_PHAM", "pattern": "serum nghe"}
+{"label": "SAN_PHAM", "pattern": "tinh chat nghe"}
+{"label": "SAN_PHAM", "pattern": "nghe hung yen"}
+{"label": "SAN_PHAM", "pattern": "serum rau má"}
+{"label": "SAN_PHAM", "pattern": "tinh chất rau má"}
+{"label": "SAN_PHAM", "pattern": "centella"}
+{"label": "SAN_PHAM", "pattern": "serum rau ma"}
+{"label": "SAN_PHAM", "pattern": "tinh chat rau ma"}
+{"label": "SAN_PHAM", "pattern": "sữa rửa mặt bí đao"}
+{"label": "SAN_PHAM", "pattern": "gel rửa mặt bí đao"}
+{"label": "SAN_PHAM", "pattern": "cleanser bí đao"}
+{"label": "SAN_PHAM", "pattern": "srm bí đao"}
+{"label": "SAN_PHAM", "pattern": "sua rua mat bi dao"}
+{"label": "SAN_PHAM", "pattern": "gel rua mat bi dao"}
+{"label": "SAN_PHAM", "pattern": "srm bi dao"}
+{"label": "SAN_PHAM", "pattern": "nước cân bằng bí đao"}
+{"label": "SAN_PHAM", "pattern": "toner bí đao"}
+{"label": "SAN_PHAM", "pattern": "nuoc can bang bi dao"}
+{"label": "SAN_PHAM", "pattern": "toner bi dao"}
+{"label": "SAN_PHAM", "pattern": "kem dưỡng bí đao"}
+{"label": "SAN_PHAM", "pattern": "gel bí đao"}
+{"label": "SAN_PHAM", "pattern": "kem duong bi dao"}
+{"label": "SAN_PHAM", "pattern": "gel bi dao"}
+{"label": "SAN_PHAM", "pattern": "tẩy tế bào chết cà phê"}
+{"label": "SAN_PHAM", "pattern": "tẩy da chết cà phê"}
+{"label": "SAN_PHAM", "pattern": "coffee scrub"}
+{"label": "SAN_PHAM", "pattern": "tay te bao chet ca phe"}
+{"label": "SAN_PHAM", "pattern": "tay da chet ca phe"}
+{"label": "SAN_PHAM", "pattern": "mặt nạ nghệ"}
+{"label": "SAN_PHAM", "pattern": "mask nghệ"}
+{"label": "SAN_PHAM", "pattern": "mat na nghe"}
+{"label": "SAN_PHAM", "pattern": "mask nghe"}
+{"label": "SAN_PHAM", "pattern": "tẩy trang"}
+{"label": "SAN_PHAM", "pattern": "nước tẩy trang"}
+{"label": "SAN_PHAM", "pattern": "micellar"}
+{"label": "SAN_PHAM", "pattern": "tay trang"}
+{"label": "SAN_PHAM", "pattern": "nuoc tay trang"}
+{"label": "HOAT_CHAT", "pattern": "niacinamide"}
+{"label": "HOAT_CHAT", "pattern": "vitamin B3"}
+{"label": "HOAT_CHAT", "pattern": "B3"}
+{"label": "HOAT_CHAT", "pattern": "panthenol"}
+{"label": "HOAT_CHAT", "pattern": "vitamin B5"}
+{"label": "HOAT_CHAT", "pattern": "B5"}
+{"label": "HOAT_CHAT", "pattern": "hyaluronic acid"}
+{"label": "HOAT_CHAT", "pattern": "HA"}
+{"label": "HOAT_CHAT", "pattern": "centella asiatica"}
+{"label": "HOAT_CHAT", "pattern": "rau má"}
+{"label": "HOAT_CHAT", "pattern": "rau ma"}
+{"label": "HOAT_CHAT", "pattern": "curcumin"}
+{"label": "HOAT_CHAT", "pattern": "curcuminoid"}
+{"label": "HOAT_CHAT", "pattern": "nghệ"}
+{"label": "HOAT_CHAT", "pattern": "nghe"}
+{"label": "HOAT_CHAT", "pattern": "AHA"}
+{"label": "HOAT_CHAT", "pattern": "glycolic acid"}
+{"label": "HOAT_CHAT", "pattern": "lactic acid"}
+{"label": "HOAT_CHAT", "pattern": "BHA"}
+{"label": "HOAT_CHAT", "pattern": "salicylic acid"}
+{"label": "HOAT_CHAT", "pattern": "PHA"}
+{"label": "HOAT_CHAT", "pattern": "gluconolactone"}
+{"label": "HOAT_CHAT", "pattern": "caffeine"}
+{"label": "HOAT_CHAT", "pattern": "cafein"}
+{"label": "HOAT_CHAT", "pattern": "không hương liệu"}
+{"label": "HOAT_CHAT", "pattern": "fragrance-free"}
+{"label": "HOAT_CHAT", "pattern": "khong huong lieu"}
+{"label": "BUOC_CHAM_SOC", "pattern": "tẩy trang"}
+{"label": "BUOC_CHAM_SOC", "pattern": "tay trang"}
+{"label": "BUOC_CHAM_SOC", "pattern": "makeup remover"}
+{"label": "BUOC_CHAM_SOC", "pattern": "rửa mặt"}
+{"label": "BUOC_CHAM_SOC", "pattern": "rua mat"}
+{"label": "BUOC_CHAM_SOC", "pattern": "cleanser"}
+{"label": "BUOC_CHAM_SOC", "pattern": "nước cân bằng"}
+{"label": "BUOC_CHAM_SOC", "pattern": "toner"}
+{"label": "BUOC_CHAM_SOC", "pattern": "nuoc can bang"}
+{"label": "BUOC_CHAM_SOC", "pattern": "serum"}
+{"label": "BUOC_CHAM_SOC", "pattern": "tinh chất"}
+{"label": "BUOC_CHAM_SOC", "pattern": "tinh chat"}
+{"label": "BUOC_CHAM_SOC", "pattern": "kem dưỡng"}
+{"label": "BUOC_CHAM_SOC", "pattern": "gel dưỡng"}
+{"label": "BUOC_CHAM_SOC", "pattern": "kem duong"}
+{"label": "BUOC_CHAM_SOC", "pattern": "gel duong"}
+{"label": "BUOC_CHAM_SOC", "pattern": "tẩy tế bào chết"}
+{"label": "BUOC_CHAM_SOC", "pattern": "tay te bao chet"}
+{"label": "BUOC_CHAM_SOC", "pattern": "exfoliate"}
+{"label": "BUOC_CHAM_SOC", "pattern": "mặt nạ"}
+{"label": "BUOC_CHAM_SOC", "pattern": "mask"}
+{"label": "BUOC_CHAM_SOC", "pattern": "mat na"}
+{"label": "BUOC_CHAM_SOC", "pattern": "chống nắng"}
+{"label": "BUOC_CHAM_SOC", "pattern": "kem chống nắng"}
+{"label": "BUOC_CHAM_SOC", "pattern": "chong nang"}
+{"label": "BUOC_CHAM_SOC", "pattern": "sunscreen"}
+{"label": "THOI_DIEM", "pattern": "buổi sáng"}
+{"label": "THOI_DIEM", "pattern": "sáng"}
+{"label": "THOI_DIEM", "pattern": "am routine"}
+{"label": "THOI_DIEM", "pattern": "buoi sang"}
+{"label": "THOI_DIEM", "pattern": "sang"}
+{"label": "THOI_DIEM", "pattern": "buổi tối"}
+{"label": "THOI_DIEM", "pattern": "tối"}
+{"label": "THOI_DIEM", "pattern": "pm routine"}
+{"label": "THOI_DIEM", "pattern": "buoi toi"}
+{"label": "THOI_DIEM", "pattern": "toi"}

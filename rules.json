@@ -1,0 +1,244 @@
+{
+  "defaults": {
+    "thong_tin_san_pham": "📘 Bạn nói rõ **sản phẩm/hoạt chất** hoặc **mục tiêu da** để mình gửi thông tin chi tiết nhé.",
+    "hoi_gia": "💵 Bạn cho mình biết **tên sản phẩm** cụ thể để mình gửi giá tham khảo và link chính hãng.",
+    "chao_tam_biet": "💛 Cảm ơn bạn đã trò chuyện cùng CocoBot. Chúc bạn chăm da thật vui 🌿",
+    "tu_van_san_pham": "Chào bạn! Để tư vấn chính xác, bạn cho mình biết **Loại da** (dầu, khô, nhạy cảm) và **Vấn đề da** (mụn, thâm, lão hóa) nhé.",
+    "dat_mua": "Bạn có thể mua tại Shopee/Lazada (gian hàng **Cocoon Vietnam**) hoặc website **Cocoon Việt Nam**.",
+    "_fallback": "Mình chưa rõ yêu cầu. Bạn cho biết **tên sản phẩm**, **loại da** hoặc **mục tiêu** giúp mình nhé?"
+  },
+  "rules": [
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "SAN_PHAM:serum nghệ"
+      },
+      "reply": "**Serum nghệ** (curcumin): mờ thâm, đều màu. Dùng sau toner, 2–3 giọt; ban ngày chống nắng kỹ."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "SAN_PHAM:serum rau má"
+      },
+      "reply": "**Serum rau má**: làm dịu, phục hồi; hợp da dầu/nhạy cảm. Dùng sáng/tối sau toner."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "SAN_PHAM:sữa rửa mặt bí đao"
+      },
+      "reply": "**SRM bí đao**: làm sạch dịu, hỗ trợ giảm dầu; dùng sáng/tối."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "SAN_PHAM:toner bí đao"
+      },
+      "reply": "**Toner bí đao**: cân bằng, hỗ trợ se lỗ chân lông; dùng sau rửa mặt."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "SAN_PHAM:kem dưỡng bí đao"
+      },
+      "reply": "**Kem/gel bí đao**: cấp ẩm nhẹ, thấm nhanh; khoá ẩm bước cuối."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "SAN_PHAM:tẩy tế bào chết cà phê"
+      },
+      "reply": "**Tẩy tế bào chết cà phê**: làm mịn sáng da; 1–3 lần/tuần, tránh vùng viêm."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "SAN_PHAM:mặt nạ nghệ"
+      },
+      "reply": "**Mặt nạ nghệ**: sáng da, mờ thâm; 10–15 phút rồi rửa lại; 2–3 lần/tuần."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "SAN_PHAM:tẩy trang"
+      },
+      "reply": "**Nước tẩy trang**: làm sạch makeup/sunscreen; sau đó dùng sữa rửa mặt."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "LOAI_DA:da dầu"
+      },
+      "reply": "**Da dầu**: SRM bí đao → toner bí đao → serum rau má → kem gel bí đao; ban ngày chống nắng."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "LOAI_DA:da khô"
+      },
+      "reply": "**Da khô**: SRM dịu → toner cấp ẩm → serum HA/nghệ → kem dưỡng; hạn chế tẩy da chết hạt."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "LOAI_DA:da nhạy cảm"
+      },
+      "reply": "**Da nhạy cảm**: tối giản; ưu tiên serum rau má/panthenol → kem dưỡng không hương liệu."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "LOAI_DA:da hỗn hợp"
+      },
+      "reply": "**Da hỗn hợp**: chăm theo vùng; T-zone dầu dùng rau má, U-zone dùng nghệ; kem gel nhẹ."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "VAN_DE_DA:mụn ẩn"
+      },
+      "reply": "**Mụn ẩn**: làm sạch dịu, thông thoáng; SRM bí đao → toner → serum rau má; tẩy tế bào chết 1–2 lần/tuần."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "VAN_DE_DA:mụn viêm"
+      },
+      "reply": "**Mụn viêm**: làm dịu, tránh chà xát; SRM dịu → serum rau má/panthenol → kem khoá ẩm nhẹ."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "VAN_DE_DA:thâm mụn"
+      },
+      "reply": "**Thâm mụn**: ưu tiên serum nghệ buổi tối + chống nắng ngày."
+    },
+    {
+      "if": {
+        "intent": "thong_tin_san_pham",
+        "has_entity": "VAN_DE_DA:lỗ chân lông to"
+      },
+      "reply": "**LCL to**: SRM bí đao → toner bí đao → serum rau má; tẩy tế bào chết hợp lý; kem gel nhẹ."
+    },
+    {
+      "if": {
+        "intent": "hoi_gia",
+        "has_entity": "SAN_PHAM:serum nghệ"
+      },
+      "reply": "**Serum nghệ** ~ 388k/30ml (tham khảo)."
+    },
+    {
+      "if": {
+        "intent": "hoi_gia",
+        "has_entity": "SAN_PHAM:serum rau má"
+      },
+      "reply": "**Serum rau má** ~ 388k/30ml (tham khảo)."
+    },
+    {
+      "if": {
+        "intent": "hoi_gia",
+        "has_entity": "SAN_PHAM:sữa rửa mặt bí đao"
+      },
+      "reply": "**SRM bí đao** ~ 290k/310ml (tham khảo)."
+    },
+    {
+      "if": {
+        "intent": "hoi_gia",
+        "has_entity": "SAN_PHAM:toner bí đao"
+      },
+      "reply": "**Toner bí đao** ~ 249k/310ml (tham khảo)."
+    },
+    {
+      "if": {
+        "intent": "hoi_gia",
+        "has_entity": "SAN_PHAM:kem dưỡng bí đao"
+      },
+      "reply": "**Kem dưỡng bí đao** ~ 121k/30ml (tham khảo)."
+    },
+    {
+      "if": {
+        "intent": "hoi_gia",
+        "has_entity": "SAN_PHAM:tẩy tế bào chết cà phê"
+      },
+      "reply": "**Tẩy tế bào chết cà phê** ~ 123k/200ml (tham khảo)."
+    },
+    {
+      "if": {
+        "intent": "hoi_gia",
+        "has_entity": "SAN_PHAM:mặt nạ nghệ"
+      },
+      "reply": "**Mặt nạ nghệ** ~ 121k/30ml (tham khảo)."
+    },
+    {
+      "if": {
+        "intent": "hoi_gia",
+        "has_entity": "SAN_PHAM:tẩy trang"
+      },
+      "reply": "**Nước tẩy trang** ~ 249k/310ml (tham khảo)."
+    },
+    {
+      "if": {
+        "intent": "tu_van_san_pham",
+        "has_all": [
+          "LOAI_DA:da dầu",
+          "VAN_DE_DA:mụn ẩn"
+        ]
+      },
+      "reply": "Da dầu + mụn ẩn: SRM & toner bí đao → serum rau má → kem gel bí đao; tẩy tế bào chết 1–2 lần/tuần."
+    },
+    {
+      "if": {
+        "intent": "tu_van_san_pham",
+        "has_all": [
+          "LOAI_DA:da dầu",
+          "VAN_DE_DA:thâm mụn"
+        ]
+      },
+      "reply": "Da dầu + thâm mụn: đêm dùng serum nghệ, ngày kem gel bí đao + chống nắng."
+    },
+    {
+      "if": {
+        "intent": "tu_van_san_pham",
+        "has_all": [
+          "LOAI_DA:da nhạy cảm",
+          "VAN_DE_DA:đỏ rát"
+        ]
+      },
+      "reply": "Da nhạy cảm đỏ rát: ưu tiên serum rau má + kem dưỡng đơn giản; tạm ngưng tẩy da chết/acid."
+    },
+    {
+      "if": {
+        "intent": "tu_van_san_pham",
+        "has_entity": "LOAI_DA:da khô"
+      },
+      "reply": "Da khô: SRM dịu → toner cấp ẩm → serum HA/nghệ → kem dưỡng dày; hạn chế tẩy da chết hạt."
+    },
+    {
+      "if": {
+        "intent": "tu_van_san_pham",
+        "has_entity": "LOAI_DA:da dầu"
+      },
+      "reply": "Da dầu: SRM bí đao → toner bí đao → serum rau má → kem gel bí đao."
+    },
+    {
+      "if": {
+        "intent": "dat_mua",
+        "has_entity": "SAN_PHAM:serum nghệ"
+      },
+      "reply": "Mua **Serum Nghệ** tại Shopee/Lazada (gian hàng **Cocoon Vietnam**) hoặc website Cocoon Việt Nam."
+    },
+    {
+      "if": {
+        "intent": "dat_mua",
+        "has_entity": "SAN_PHAM:serum rau má"
+      },
+      "reply": "Mua **Serum Rau Má** tại Shopee/Lazada (gian hàng **Cocoon Vietnam**) hoặc website Cocoon Việt Nam."
+    },
+    {
+      "if": {
+        "intent": "chao_tam_biet"
+      },
+      "reply": "Cảm ơn bạn đã ghé CocoBot. Chúc bạn một ngày dịu nhẹ như bí đao!"
+    }
+  ]
+}

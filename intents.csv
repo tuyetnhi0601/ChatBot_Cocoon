@@ -1,0 +1,46 @@
+text,label
+"Da mình bị mụn ẩn thì nên dùng gì?",tu_van_san_pham
+"Da dầu mụn thì nên chọn sản phẩm nào?",tu_van_san_pham
+"Da khô bong tróc nên dùng gì để cấp ẩm?",tu_van_san_pham
+"Da nhạy cảm có nên dùng tẩy tế bào chết không?",tu_van_san_pham
+"Da hỗn hợp thì routine sáng và tối khác nhau không?",tu_van_san_pham
+"Mình muốn sáng da và mờ thâm thì nên dùng sản phẩm nào?",tu_van_san_pham
+"Mụn viêm và lỗ chân lông to thì có nên dùng toner bí đao không?",tu_van_san_pham
+"Da dầu bị mụn ẩn thì có nên dùng serum rau má Cocoon không?",tu_van_san_pham
+"Da nhạy cảm có hợp với serum nghệ không?",tu_van_san_pham
+"Da khô nên chọn kem dưỡng nào của Cocoon?",tu_van_san_pham
+
+"Serum nghệ Cocoon có công dụng gì?",thong_tin_san_pham
+"Serum rau má dùng như thế nào?",thong_tin_san_pham
+"Sữa rửa mặt bí đao có phù hợp da dầu không?",thong_tin_san_pham
+"Toner bí đao có giúp se khít lỗ chân lông không?",thong_tin_san_pham
+"Kem dưỡng bí đao có bị bít da không?",thong_tin_san_pham
+"Tẩy tế bào chết cà phê Cocoon có công dụng gì?",thong_tin_san_pham
+"Nước tẩy trang Cocoon có gây khô da không?",thong_tin_san_pham
+"Cocoon có dùng nguyên liệu thuần chay đúng không?",thong_tin_san_pham
+"Sản phẩm Cocoon có hương liệu không?",thong_tin_san_pham
+"Mặt nạ nghệ có cần rửa lại không?",thong_tin_san_pham
+
+"Serum nghệ giá bao nhiêu?",hoi_gia
+"Kem dưỡng bí đao bao nhiêu tiền?",hoi_gia
+"Sữa rửa mặt bí đao Cocoon giá tầm bao nhiêu?",hoi_gia
+"Tẩy tế bào chết cà phê bao nhiêu một hũ?",hoi_gia
+"Serum rau má hiện đang giảm giá không?",hoi_gia
+
+"Mua Cocoon chính hãng ở đâu?",dat_mua
+"Cho mình link mua hàng chính hãng Cocoon",dat_mua
+"Mình muốn đặt mua serum nghệ",dat_mua
+"Cocoon có gian hàng trên Shopee không?",dat_mua
+"Lazada có shop Cocoon thật không?",dat_mua
+
+"Làm sao để dùng serum đúng thứ tự?",huong_dan_su_dung
+"Thứ tự routine sáng cho da dầu mụn là gì?",huong_dan_su_dung
+"Buổi tối thì dùng sản phẩm nào trước?",huong_dan_su_dung
+"Tẩy trang xong có cần rửa mặt luôn không?",huong_dan_su_dung
+"Khi nào nên dùng kem dưỡng bí đao?",huong_dan_su_dung
+
+"Cảm ơn bạn nhiều nha!",chao_tam_biet
+"Chào bạn Cocoon",chao_tam_biet
+"Tạm biệt, hẹn gặp lại nhé",chao_tam_biet
+"Bye CocoBot",chao_tam_biet
+"Goodbye",chao_tam_biet
